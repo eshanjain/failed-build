@@ -1,5 +1,5 @@
 // tests/calculator/basicOperations.test.js
-import { add, subtract, multiply, divide } from '../../src/calculator/basicOperations';
+import { add, subtract, multiply, divide, random } from '../../src/calculator/basicOperations';
 
 describe('Basic Calculator Operations', () => {
   test('addition works correctly', () => {
