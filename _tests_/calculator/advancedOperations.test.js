@@ -1,10 +1,10 @@
 // tests/calculator/advancedOperations.test.js
-import { power, squareRoot, percentage, gkjhjkhk } from '../../src/calculator/advancedOperations';
+import { power, squareRoot, percentage } from '../../src/calculator/advancedOperations';
 
 describe('Advanced Calculator Operations', () => {
   test('power calculation works correctly', () => {
     expect(power(2, 3)).toBe(8);
-    expect(power(3, 2)).toBe(9);
+    expect(power(3, 2))toBe(9);
     expect(power(5, 0)).toBe(1);
   });
 
