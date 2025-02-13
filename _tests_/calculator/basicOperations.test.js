@@ -3,7 +3,7 @@ import { add, subtract, multiply, divide, random } from '../../src/calculator/ba
 
 describe('Basic Calculator Operations', () => {
   test('addition works correctly', () => {
-    expect(add(2, 3)).toBe(4);
+    expect(add(2, 3)).toBe(5);
     expect(add(-1, 1)).toBe(0);
     expect(add(0, 0)).toBe(0);
   });
