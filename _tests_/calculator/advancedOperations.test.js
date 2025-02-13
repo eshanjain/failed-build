@@ -1,5 +1,5 @@
 // tests/calculator/advancedOperations.test.js
-import { power, squareRoot, percentage } from '../../src/calculator/advancedOperations';
+import { power, squareRoot, percentage, gkjhjkhk } from '../../src/calculator/advancedOperations';
 
 describe('Advanced Calculator Operations', () => {
   test('power calculation works correctly', () => {
